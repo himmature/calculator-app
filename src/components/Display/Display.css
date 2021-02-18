@@ -1,0 +1,24 @@
+.display {
+    width: 360px;
+    height: 80px;
+    border: 5px solid black;
+    position: relative;
+    margin: 20px auto;
+    background-color: beige;
+    padding: 5px;
+    text-align: right;
+    word-wrap: break-word;
+  }
+  
+  .display p {
+    margin: 0;
+    font-weight: bold;
+  }
+  .first-arg {
+    font-size: 25px;
+  }
+  .second-arg {
+    font-size: 40px;
+  }
+ 
+  

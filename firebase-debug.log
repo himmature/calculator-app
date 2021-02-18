@@ -1,0 +1,25 @@
+[debug] [2021-02-10T18:18:57.506Z] ----------------------------------------------------------------------
+[debug] [2021-02-10T18:18:57.508Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\Himanshu\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-02-10T18:18:57.508Z] CLI Version:   9.3.0
+[debug] [2021-02-10T18:18:57.508Z] Platform:      win32
+[debug] [2021-02-10T18:18:57.508Z] Node Version:  v14.15.3
+[debug] [2021-02-10T18:18:57.510Z] Time:          Wed Feb 10 2021 23:48:57 GMT+0530 (India Standard Time)
+[debug] [2021-02-10T18:18:57.510Z] ----------------------------------------------------------------------
+[debug] [2021-02-10T18:18:57.510Z] 
+[debug] [2021-02-10T18:18:57.517Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-02-10T18:18:57.518Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\HIM\React\calculator
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+

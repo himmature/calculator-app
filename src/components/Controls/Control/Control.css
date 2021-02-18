@@ -1,0 +1,14 @@
+.control {
+    border: 2px solid black;
+    width: 70px;
+    height: 50px;
+    background-color: orange;
+    padding: 7px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+  }
+  .control:hover {
+    background-color: cornsilk;
+  }

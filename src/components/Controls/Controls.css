@@ -1,0 +1,13 @@
+.Controls {
+    width: 360px;
+    height: 350px;
+    border: 5px solid black;
+    position: relative;
+    margin: 20px auto;
+    padding: 5px;
+    background-color: cornsilk;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
